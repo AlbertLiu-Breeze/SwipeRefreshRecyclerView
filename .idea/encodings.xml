@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jusfoun/recyclerview/ui/activity/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jusfoun/recyclerview/ui/adapter/AnimationAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jusfoun/recyclerview/ui/adapter/SimpleAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jusfoun/recyclerview/ui/animation/BaseItemAnimator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jusfoun/recyclerview/ui/viewholder/FooterViewHolder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jusfoun/recyclerview/ui/viewholder/ItemViewHolder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jusfoun/recyclerview/ui/widget/CustomRecyclerView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jusfoun/recyclerview/ui/widget/CustomSwipeRefreshLayout.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jusfoun/recyclerview/ui/widget/ReadyRecyclerView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/jusfoun/recyclerview/util/Constant.java" charset="UTF-8" />
+  </component>
+</project>
